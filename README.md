@@ -9,10 +9,9 @@
 ## 📊 GitHub Stats
 <div>
 <!--   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chaimaJr&theme=dark&ring=A28DF7&currStreakLabel=00A9F7&fire=00A9F7&sideNums=00A9F7" alt="GitHub Streak" /></a> -->
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chaimaJr&theme=github_dark" />
 </div>
 <div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chaimaJr&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chaimaJr&theme=github_dark" />
 </div>
 
